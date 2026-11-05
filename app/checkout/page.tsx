@@ -1,0 +1,1 @@
+export default function Checkout(){return <main className="wrap"><h1>إتمام الطلب</h1><div className="notice"><strong>الدفع غير مفعل بعد.</strong><p>لحماية العملاء، لن يتم استقبال طلبات أو مبالغ مالية قبل ربط بوابة دفع معتمدة والتحقق من نجاح الدفع والمخزون على السيرفر. هذه الصفحة مغلقة عمداً وليست نموذج دفع تجريبي.</p></div></main>}
